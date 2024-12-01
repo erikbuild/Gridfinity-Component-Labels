@@ -4,9 +4,9 @@ A growing collection of pre-made labels and icons for various small parts. Origi
 
 ## Need-to-know
 
-**Label Maker Used:** Brother P-Touch Cube 750BT
-**Label Size:** 12mm
-**Font:** [Fira Code (Medium, Semibold) by tonsky](https://github.com/tonsky/FiraCode)
+- **Label Maker Used:** Brother P-Touch Cube 750BT
+- **Label Size:** 12mm
+- **Font:** [Fira Code (Medium, Semibold) by tonsky](https://github.com/tonsky/FiraCode)
 
 ## Attribution
 
