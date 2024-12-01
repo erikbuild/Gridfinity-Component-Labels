@@ -15,3 +15,7 @@ Ella Fox [Printables](https://www.printables.com/@ellafoxo) | [GitHub](https://g
 ## License
 
 Creative Commons Attribution Share-Alike 4.0
+
+![01](Assets/01.jpg)
+![02](Assets/02.jpg)
+![02](Assets/03.jpg)
