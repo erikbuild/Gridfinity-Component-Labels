@@ -14,4 +14,4 @@ Ella Fox [Printables](https://www.printables.com/@ellafoxo) | [GitHub](https://g
 
 ## License
 
-Creative Commons Attribution Share-Alike 3.0
+Creative Commons Attribution Share-Alike 4.0
