@@ -4,11 +4,14 @@
 <svg
    version="1.1"
    id="svg1"
-   width="250"
-   height="250"
-   viewBox="0 0 250 250"
+   width="25.247244"
+   height="25.247244"
+   viewBox="0 0 25.247244 25.247244"
    sodipodi:docname="head.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="..\PNG\head.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.792"
-     inkscape:cx="125"
-     inkscape:cy="125"
+     inkscape:zoom="2.396"
+     inkscape:cx="-9.1819699"
+     inkscape:cy="142.32053"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="-8"
@@ -37,11 +40,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <path
        id="path1"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0944882;stroke-linecap:square"
-       d="M 125,0 A 125,125 0 0 0 0,125 125,125 0 0 0 125,250 125,125 0 0 0 250,125 125,125 0 0 0 125,0 Z m 0,59.523438 56.70508,32.738281 V 157.73828 L 125,190.47656 68.294922,157.73828 V 92.261719 Z" />
+       style="fill:#000000;fill-opacity:1;stroke-width:0.00954225;stroke-linecap:square"
+       d="M 12.623622,0 A 12.623622,12.623622 0 0 0 0,12.623622 12.623622,12.623622 0 0 0 12.623622,25.247244 12.623622,12.623622 0 0 0 25.247244,12.623622 12.623622,12.623622 0 0 0 12.623622,0 Z m 0,6.0112112 5.726588,3.3062052 V 15.929827 L 12.623622,19.236033 6.8970342,15.929827 V 9.3174164 Z" />
   </g>
 </svg>
