@@ -10,7 +10,8 @@ A growing collection of pre-made labels and icons for various small parts. Origi
 
 ## Attribution
 
-Ella Fox [Printables](https://www.printables.com/@ellafoxo) | [GitHub](https://github.com/@ellafoxo)
+Ella Fox [Printables](https://www.printables.com/@ellafoxo) | [GitHub](https://github.com/ellafoxo)
+Erik Reynolds [Printables(https://printables.com/@erikbuild) | [GitHub](https://github.com/erikbuild)
 
 ## License
 
